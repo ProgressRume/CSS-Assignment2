@@ -1,0 +1,39 @@
+.Container {
+    background-color: white;
+    padding: 5px;
+
+}
+
+#First-Section {
+    color: green;
+    padding: 7px;
+    margin: auto;
+    border: ridge;
+    font-size: 14px;
+    align-items: center;
+    width: 50%;
+}
+
+#Second-Section {
+    color: red;
+    padding: 7px;
+    margin: auto;
+    border: ridge;
+    font-size: 14px;
+    margin-top: 10px;
+    width: 50%;
+}
+
+#Third-Section {
+    color: blue;
+    padding: 7px;
+    margin: auto;
+    border: ridge;
+    font-size: 14px;
+    margin-top: 10px;
+    width: 50%;
+}
+
+/* h1 {
+    font-size: 18px;
+} */
